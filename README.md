@@ -1,1 +1,1 @@
-# Learning Next.JS!
+# Learning Next.JS 12!
