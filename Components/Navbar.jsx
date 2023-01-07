@@ -1,5 +1,6 @@
 import Link from "next/link";
 import styles from '../styles/Navbar.module.css';
+
 const Navbar = () => {
     return (
         <div className={styles.navbar}>
@@ -8,6 +9,7 @@ const Navbar = () => {
                 <Link href="/about">About</Link>
                 <Link href="/profile">Profile</Link>
                 <Link href="/coins">Coins</Link>
+                <Link href="/repo">Repos</Link>
             </div>
         </div>
     )

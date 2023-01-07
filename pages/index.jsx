@@ -8,7 +8,9 @@ export default function Home() {
         <title>LEARNING NEXT.JS 12!</title>
       </Head>
 
-      <h1>THIS IS HOME PAGE</h1>
+      <h1 style={{ margin: "80px 0" }}>I'M AHMED SALEEM SHAIKH</h1>
+
+      <h2 style={{ margin: "80px 0" }}>FULL STACK DEVELOPER</h2>
     </div>
   )
 };
